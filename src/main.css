@@ -9,18 +9,22 @@
   height: inherit;
 }
 
-body {
-  font-family: 'Source Sans Pro', 'Trebuchet MS', 'Lucida Grande', 'Bitstream Vera Sans', 'Helvetica Neue', sans-serif;
-  margin: 0;
-  text-align: center;
-  color: #293c4b;
+html {
+  font-family: sans-serif;
+  font-size: 12px;
 }
 
-h1 {
-  font-size: 30px;
+.List {
+  border: 1px solid #d9dddd;
 }
 
-img {
-  margin: 20px 0;
-  max-width: 200px;
+.ListItemEven,
+.ListItemOdd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ListItemEven {
+  background-color: #f8f8f0;
 }
