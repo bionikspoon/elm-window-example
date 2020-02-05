@@ -1,0 +1,14 @@
+{
+  "name": "elm-window-example",
+  "version": "0.0.0",
+  "repository": "git@github.com:bionikspoon/elm-window-example.git",
+  "author": "Manu Phatak <manu.phatak@procore.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "create-elm-app": "^4.2.1"
+  },
+  "scripts": {
+    "build": "elm-app build"
+  }
+}
