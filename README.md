@@ -1,6 +1,16 @@
-# Elm App
+# Elm Window Example
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/df146c1e-de39-4a2c-9f6c-71bb9529aa1f/deploy-status)](https://app.netlify.com/sites/elm-window-example/deploys)
+
+## Goal
+
+Learn a little bit more about [`react-virtualized`](https://github.com/bvaughn/react-virtualized).
+
+I've worked with react-virtualized. I know to turn to react-virtualized for efficient rendering of LOTS of things, but I've always been curious about why it renders efficiently and why it has the constraints it does.
+
+---
+
+# Elm App
 
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
